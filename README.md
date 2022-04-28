@@ -20,3 +20,4 @@ Test cases written for:
 Unsplash API keys can be found in Env file. Request you to keep it confidential.
 
 For Styling using Styled components.
+Global styles can be found in app.styled.js
