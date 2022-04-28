@@ -1,0 +1,29 @@
+{
+  "name": "sellics-image-approval-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "next": "12.1.5",
+    "prop-types": "^15.8.1",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-error-boundary": "^3.1.4",
+    "react-multi-carousel": "^2.8.0",
+    "react-storage-hooks": "^4.0.1",
+    "styled-components": "^5.3.5",
+    "styled-icons": "^10.45.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.1.1",
+    "@testing-library/react-hooks": "^8.0.0",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  }
+}
